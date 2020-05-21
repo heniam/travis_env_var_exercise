@@ -1,4 +1,4 @@
-# Overview
+# Overview [![Build Status](https://travis-ci.com/heniam/travis_env_var_exercise.svg?branch=master)](https://travis-ci.com/heniam/travis_env_var_exercise)
 This is a very simple, bare-bones NodeJS project created for you to use with Docker.
 
 # Local Setup
